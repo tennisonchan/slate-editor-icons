@@ -1,4 +1,6 @@
 # slate-editor-icons [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Canner/slate-editor-icons.svg?token=4182e6751117d67f34d5ebc76194a46bad269a723c11f4ec88abda630696e4bd&ts=1520088267477)](https://greenkeeper.io/)
 > icons ([quill-icons](https://github.com/Canner/quill-icons)) for slate editors
 
 ## Installation
