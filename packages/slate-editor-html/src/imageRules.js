@@ -44,6 +44,14 @@ export default function(inlineType = IMAGE, stylesAttr = defaultAttrs) {
           data.height = el.style.height;
         }
 
+        if (typeof el.width === 'number') {
+          data.width = el.width;
+        }
+
+        if (typeof el.height === 'number') {
+          data.height = el.height;
+        }
+
         return {
           object: 'inline',
           type: inlineType,
